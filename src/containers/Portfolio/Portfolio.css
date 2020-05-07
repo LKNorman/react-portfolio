@@ -10,7 +10,7 @@ body {
   }
   .block {
     background-color: white;
-    color: #051b7c;
+    color: #2f057c;
   
     padding: 30px;
     margin-bottom: 30px;
@@ -20,7 +20,7 @@ body {
   }
   
   .block-header {
-    color: #051b7c;
+    color: #2f057c;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: bold;
   }
@@ -32,13 +32,13 @@ body {
     padding-left: 15px;
     padding-right: 15px;
     height: fit-content;
-    background: #051b7c;
+    background: #2f057c;
   }
   .navbar-default .navbar-nav > li > a:hover {
     color: #05357c;
   }
   li {
-    background: #051b7c;
+    background: #2f057c;
     margin-right: 5px;
   }
   a.nav-link {
@@ -46,7 +46,7 @@ body {
   }
   
   .navbar {
-    background: #051b7c;
+    background: #2f057c;
     border: none;
   }
   .navbar-dark {
@@ -57,7 +57,7 @@ body {
   }
   @media only screen and (max-width: 767px) {
     .navbar-header {
-      background-color: #051b7c;
+      background-color: #2f057c;
     }
   }
   .connect-header {
@@ -96,7 +96,7 @@ body {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 32px;
     font-weight: bold;
-    color: #051b7c;
+    color: #2f057c;
   }
   
   #about-image {
@@ -117,37 +117,37 @@ body {
   }
   #border1 {
     border: solid;
-    border-color: #051b7c;
+    border-color: #2f057c;
     border-width: 1px;
     margin-bottom: 10px;
   }
   #border2 {
     border: solid;
-    border-color: #051b7c;
+    border-color: #2f057c;
     border-width: 1px;
     margin-bottom: 10px;
   }
   #border3 {
     border: solid;
-    border-color: #051b7c;
+    border-color: #2f057c;
     border-width: 1px;
     margin-bottom: 10px;
   }
   #border4 {
     border: solid;
-    border-color: #051b7c;
+    border-color: #2f057c;
     border-width: 1px;
     margin-bottom: 10px;
   }
   #border5 {
     border: solid;
-    border-color: #051b7c;
+    border-color: #2f057c;
     border-width: 1px;
     margin-bottom: 10px;
   }
   #border6 {
     border: solid;
-    border-color: #051b7c;
+    border-color: #2f057c;
     border-width: 1px;
   }
   .form-control {
@@ -174,7 +174,7 @@ body {
   }
   #fresh {
     padding: 20px;
-    color: #051b7c;
+    color: #2f057c;
     background-color: #ccdfcb;
   }
   #watermelon {
@@ -185,6 +185,6 @@ body {
   #teal {
     padding: 20px;
     color: whitesmoke;
-    background-color: #051b7c;
+    background-color: #2f057c;
   }
   
